@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="73mm"
+   height="24mm"
+   viewBox="0 0 73 24"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="apaxy-v2.svg">
+  <defs
+     id="defs2">
+    <radialGradient
+       id="radialGradient-1"
+       r="0.6617108"
+       fy="0.33828923"
+       fx="0.5"
+       cy="0.33828923"
+       cx="0.5">
+      <stop
+         id="stop4522"
+         offset="0%"
+         stop-color="#E02074" />
+      <stop
+         id="stop4524"
+         offset="36.3494975%"
+         stop-color="#D41A62" />
+      <stop
+         id="stop4526"
+         offset="100%"
+         stop-color="#BD0E40" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient-1-3"
+       r="4.4305387"
+       fy="2.2675064"
+       fx="3.3887184"
+       cy="2.2675064"
+       cx="3.3887184"
+       gradientTransform="scale(0.58226906,1.7174191)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4572"
+         offset="0%"
+         stop-color="#E02074" />
+      <stop
+         id="stop4574"
+         offset="36.3494975%"
+         stop-color="#D41A62" />
+      <stop
+         id="stop4576"
+         offset="100%"
+         stop-color="#BD0E40" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="157.37504"
+     inkscape:cy="224.59093"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4705"
+     showgrid="false"
+     inkscape:window-width="1792"
+     inkscape:window-height="1007"
+     inkscape:window-x="897"
+     inkscape:window-y="194"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-273)">
+    <g
+       id="g4705"
+       transform="translate(-20.045215,-48.108515)">
+      <g
+         id="g5355"
+         transform="translate(-8.8975009,227.78967)">
+        <g
+           id="Page-1-6"
+           transform="matrix(1.6349632,0,0,1.9264128,80.142962,91.800162)"
+           style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+          <g
+             id="blank">
+            <g
+               transform="translate(2)"
+               id="Group-4">
+              <g
+                 transform="rotate(33,3.7689838,15.394496)"
+                 id="Group-2-7">
+                <path
+                   id="Triangle-5"
+                   d="m 1.6890156,11.452823 c 0,0 0.1318912,0.196172 0.2339562,0.230971 0.1020649,0.0348 0.3234175,0.0348 0.3234175,0.0348 l -0.8100035,0.354404 z m -0.2471704,-0.0084 c 0,0 -0.1524084,0.180118 -0.2626072,0.230566 -0.08623,0.03948 -0.32668034,0.0392 -0.32668034,0.0392 l 0.37657414,0.159206 0.2220929,0.0939 z"
+                   inkscape:connector-curvature="0"
+                   style="fill:#a9bbce" />
+                <g
+                   id="Group-35">
+                  <path
+                     style="fill:url(#radialGradient-1-3)"
+                     id="Triangle-2-6"
+                     d="m 1.4322909,0.00423025 c 0,0 1.7793452,0.16657969 2.3331563,3.13495315 C 4.3192583,6.1075569 3.3675303,11.50335 1.548692,11.50335 c -1.76055873,0 -1.51292451,-7.9925043 -1.51292451,-7.9925043 0,0 0.53112721,-0.2026537 1.00336331,-1.1978259 C 1.5113669,1.3178476 1.4322909,0.00423025 1.4322909,0.00423025 Z"
+                     inkscape:connector-curvature="0" />
+                  <path
+                     id="Triangle-2-Copy-2"
+                     d="M 1.9659278,4.4109962 3.4346821,1.8923837 c 0,0 0.2205317,0.7408593 0.2243856,0.7556841 0.045167,0.1737429 0.1063795,0.5166651 0.1063795,0.5166651 L 2.0734923,4.5291891 Z"
+                     inkscape:connector-curvature="0"
+                     style="fill:#f6a623" />
+                  <path
+                     id="path4584"
+                     d="M 2.0716738,4.6610688 3.8010289,3.3391704 c 0,0 0.05759,0.4362988 0.077204,0.6551059 0.01838,0.2050468 0.036778,0.616456 0.036778,0.616456 L 2.071674,4.8160713 Z"
+                     inkscape:connector-curvature="0"
+                     style="fill:#f6a623" />
+                </g>
+                <path
+                   id="Rectangle-9"
+                   d="m 1.797977,1.0656511 c 0.051241,0 0.5473168,4.258745 0.4901676,5.4029737 -0.1223938,2.4505403 -0.883317,7.3931302 -0.883317,7.3931302 l -0.377977,0.304672 c 0,0 0.7560821,-5.2155683 0.8997888,-7.6978022 C 1.9969281,5.2545323 1.7277515,1.0656511 1.797977,1.0656511 Z"
+                   inkscape:connector-curvature="0"
+                   style="fill:#211e1e" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d41a62;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="29.237803"
+           y="112.43297"
+           id="text4614"><tspan
+             sodipodi:role="line"
+             id="tspan4612"
+             x="29.237803"
+             y="112.43297"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#d41a62;fill-opacity:1;stroke-width:0.26458332">IPS <tspan
+   style="font-size:7.76111126px;fill:#000000;fill-opacity:1"
+   id="tspan4690">File Server</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

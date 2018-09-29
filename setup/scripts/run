@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e 
+
+source /etc/apache2/envvars
+tail -f /var/log/apache2/error.log &
+exec apachectl -D FOREGROUND
